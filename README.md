@@ -163,7 +163,7 @@ export const personalData = {
   linkedIn: "https://www.linkedin.com/in/inzamam-idrees/",
   twitter: "https://x.com/smart_inzi",
   stackOverflow: "https://stackoverflow.com/users/7973760/inzamam-idrees",
-  devUsername: "inzamam-idrees",
+  devUsername: "Abdullah",
   resume: "...",
 };
 ```
