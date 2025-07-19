@@ -1,6 +1,4 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/inzamam-idrees/software-developer-portfolio/blob/master/public/image/palestine.jpg?raw=true">
-</p>
+
 
 ---
 
@@ -18,7 +16,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://inzamamidrees.netlify.app/).
+## View live preview [here](https://abdullah034.netlify.app/).
 
 ---
 
